@@ -1,0 +1,5 @@
+## Acceso al Prototipo
+
+El prototipo funcional desarrollado en Figma puede visualizarse en el siguiente enlace:
+
+[Acceder al Prototipo Vecinos Conectados](https://www.figma.com/make/CFbAfohLNhN8AX6GVzhtEf/Implementar-instrucciones-del-archivo--copia-?fullscreen=1&t=fvkKJ69pFK0xnTCl-1&code-node-id=0-9)

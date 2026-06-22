@@ -1,3 +1,4 @@
+
 # Vecinos_Conectados_Versiones
 Repositorio para llevar control de las versiones del prototipo no-code realizado para el proyecto "Vecinos Conectados" del ramo Ingenieria de Software
 
@@ -33,19 +34,21 @@ Durante el desarrollo del proyecto se adoptó el versionamiento semántico, perm
 
 Este esquema facilita el seguimiento de los cambios realizados, la incorporación de nuevos requerimientos, la corrección de errores y la recuperación de versiones anteriores cuando es necesario.
 
-##Historial de Versiones##
+## Historial de Versiones
 
-Versión	Fecha	Descripción
-V.1	09/06/2026	Creación del prototipo base e implementación de las instrucciones iniciales del proyecto.
-V.2	09/06/2026	Incorporación del diseño responsivo para dispositivos móviles y escritorio.
-V.3	16/06/2026	Implementación de los requerimientos funcionales RF-15.
-V.4	16/06/2026	Implementación de los demás requerimientos funcionales definidos para el sistema.
-V.5	16/06/2026	Ajuste del color de la pestaña y mejoras visuales de la interfaz.
-V.6	17/06/2026	Actualización de la pantalla de cambio de contraseña.
-V.7	17/06/2026	Implementación de la validación de contraseña.
-V.8	17/06/2026	Validación del campo de descripción de solicitudes.
-V.9	17/06/2026	Incorporación de la visualización de solicitudes en el perfil del residente.
-V.10	17/06/2026	Se agregó la obligatoriedad de la descripción en las solicitudes y se realizaron ajustes finales al prototipo.
+| **Versión** | **Fecha**  | **Descripción**                                                                                                |
+| ----------- | ---------- | -------------------------------------------------------------------------------------------------------------- |
+| **V.1**     | 09/06/2026 | Creación del prototipo base e implementación de las instrucciones iniciales del proyecto.                      |
+| **V.2**     | 09/06/2026 | Incorporación del diseño responsivo para dispositivos móviles y escritorio.                                    |
+| **V.3**     | 16/06/2026 | Implementación de los requerimientos funcionales RF-15.                                                        |
+| **V.4**     | 16/06/2026 | Implementación de los demás requerimientos funcionales definidos para el sistema.                              |
+| **V.5**     | 16/06/2026 | Ajuste del color de la pestaña y mejoras visuales de la interfaz.                                              |
+| **V.6**     | 17/06/2026 | Actualización de la pantalla de cambio de contraseña.                                                          |
+| **V.7**     | 17/06/2026 | Implementación de la validación de contraseña.                                                                 |
+| **V.8**     | 17/06/2026 | Validación del campo de descripción de solicitudes.                                                            |
+| **V.9**     | 17/06/2026 | Incorporación de la visualización de solicitudes en el perfil del residente.                                   |
+| **V.10**    | 17/06/2026 | Se agregó la obligatoriedad de la descripción en las solicitudes y se realizaron ajustes finales al prototipo. |
+
 
 ##Evidencias de Versiones##
 **V.1 - Prototipo Base**

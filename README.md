@@ -122,27 +122,7 @@ Este esquema facilita el seguimiento de los cambios realizados, la incorporació
 
 ![Versión 10](images/v10.png)
 
----
 
-# 📂 Estructura del Repositorio
-
-```text
-├── README.md
-├── images/
-│   ├── v1.png
-│   ├── v2.png
-│   ├── v3.png
-│   ├── v4.png
-│   ├── v5.png
-│   ├── v6.png
-│   ├── v7.png
-│   ├── v8.png
-│   ├── v9.png
-│   └── v10.png
-├── diagramas/
-├── documentos/
-└── prototipo/
-```
 
 ---
 
